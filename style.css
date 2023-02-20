@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+
+.GameLink a {
+    padding-right: 10px;
+    margin-top: 500px;
+}
+
+.GameLink :last-child {
+    margin-left: 670px;
+}
+
+.Center {
+    margin: 0px auto;
+    width: 1000px;
+}
+
+p {
+    margin: 0px;
+}
+
+ul {
+    padding: 0px;
+}
+
+
+.info {
+    display: flex;
+}
+
+.info1 {
+    width: 80%;
+    margin-right: 40px;
+    padding: 10px;
+}
+
+.info2 {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.info2 p {
+    margin-right: 10px;
+}
+
+.info3 {
+    width: 20%;
+    padding: 10px;
+}
+
+.images {
+    height: 120px;
+    margin-bottom: 40px;
+}
+
+.images img {
+    margin-top: 5px;
+    max-height: 100%;
+}
+
+.recenties ul {
+    margin-bottom: 20px;
+}
